@@ -1,0 +1,15 @@
+#main-container{
+    text-align: center;
+}
+
+#display{
+    font-size: 100px;
+}
+
+.button-format{
+    padding: 20px;
+    font-size: 30px;
+    background-color: rgb(116, 202, 202);
+    border-radius: 10px;
+    cursor: pointer;
+}
